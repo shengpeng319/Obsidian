@@ -1,0 +1,7 @@
+.vscode/
+plugins/
+data/
+cache/
+export/
+sync/
+*.log
